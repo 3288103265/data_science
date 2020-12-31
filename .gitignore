@@ -1,0 +1,12 @@
+*.zip
+*.csv
+*.DS_Store
+*.cv 
+*.names
+*.tra
+*.wdep
+*.windep
+*.data
+*.rar
+*.txt
+Project2_regression/datafountain_competition_od.txt
